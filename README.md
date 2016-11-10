@@ -74,6 +74,10 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-5.png">
 </p> 
 
+ ผลที่ได้ คือ ในfrom จะมีรูปสี่เหลี่ยมน้ำเงิน วงกลมสีชมพู และ มีพื้นหลังเป็นสีเขียวอ่อนๆสว่างๆ
+ 
+![](https://github.com/fernkamon/LAB-09/blob/master/imgs/green.JPG)
+
 ####2.5.3. การทดลองย่อย 3  -- การใช้ปากกา
 * การทดลองเปลี่ยนขนาดและสีของปากกา โดยใช้ properties Width และ Color
 <p align="center">
