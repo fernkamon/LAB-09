@@ -63,6 +63,10 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-4.png">
 </p> 
+
+ ผลที่ได้ คือ ใน from จะมีรูปสี่เหลี่ยมสีน้ำเงิน และวงกลมสีชมพู ดังนี้
+ 
+ ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/sc.JPG)
  
 ####2.5.2.	โดยการใช้ methode FromName 
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน private void Form1_Paint(object sender, PaintEventArgs e) แล้วทดลอง Run โปรแกรม
