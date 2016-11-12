@@ -126,3 +126,5 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/flower.JPG)
  
  ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/snow.JPG)
+ 
+ ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/keaw.JPG)
