@@ -84,7 +84,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
 </p> 
  
- ผลที่ได้ คือ ในfrom จะมีสีเหลี่ยมสีดำ และวงกลมหนาๆสีชมพู
+ ผลที่ได้ คือ ในfrom จะมีสีเหลี่ยมสีดำ และวงกลมหนาๆสีชมพู ดูงรู)
  
  ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/4.JPG)
  
@@ -92,6 +92,10 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
 </p> 
+
+ ผลที่ได้ คือ ในfrom จะมเส้นประสี่เหลี่ยมสีดำ และ วงกลมสีชมพูที่เป็นเส้นประ ดังรูป
+ 
+ ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/5.JPG)
 
 * ใช้ Pen ร่วมกับ Brush  
  <p align="center">
