@@ -102,15 +102,18 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-8.png">
 </p> 
 
-  ผลที่ได้ คือในfrom จะมีวงกลมหนาๆสีดำ ดังรูป
+  ผลที่ได้ คือในfrom จะมีวงกลมหนาๆสีเขียวเข้ม ดังรูป
   
   ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/6.JPG)
 
 * ใช้ Pen ร่วมกับ HatchBrush  เพื่อสร้างลายเส้นแบบต่างๆ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-9.png">
-</p> 
+</p>
+
+ ผลที่ได้ คือ ในfrom จะมีวงกลมสีชมพูแต่เป็นขีดๆ ดังรูป
  
+ ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/7.JPG)
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
