@@ -120,3 +120,5 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
  
  ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/fern.JPG)
+ 
+ ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/8.JPG)
