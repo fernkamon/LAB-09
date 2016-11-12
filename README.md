@@ -83,6 +83,11 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
 </p> 
+ 
+ ผลที่ได้ คือ ในfrom จะมีสีเหลี่ยมสีดำ และวงกลมหนาๆสีชมพู
+ 
+ ![](https://github.com/fernkamon/LAB-09/blob/master/imgs/4.JPG)
+ 
 * เปลี่ยนชนิดของปากกาเป็นเส้นประ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
